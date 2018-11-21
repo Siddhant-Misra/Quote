@@ -1,0 +1,1 @@
+A random quote generator with just HTML, CSS and Javascript. 
